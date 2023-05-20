@@ -1,0 +1,40 @@
+Day : Thursday
+
+the excerise : 'Leg extension with machine'
+reps:10		weights:15 kg	Thu Mar 16 09:13:51 2023
+
+the excerise : 'Leg press with machine'
+reps:0		weights:0	Thu Mar 16 09:14:08 2023
+
+the excerise : 'leg curl [sleep on table then pull with legs] with machine'
+reps:0		weights:0	Thu Mar 16 09:14:16 2023
+
+the excerise : 'squats with weights with machine / pistol'
+reps:10 + 7 + 6		weights:just bar	Thu Mar 16 09:15:11 2023
+
+the excerise : 'lunges'
+reps:10 each		weights:bodyweight	Thu Mar 16 09:15:33 2023
+
+the excerise : 'calfs = 20-25'
+reps:20		weights:0	Thu Mar 16 09:15:52 2023
+
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+Day:Saturday		2023-03-20 10:46:41.298529
+Wokeup late at 8 AM
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+Day:Sunday		2023-03-20 10:47:10.904876
+Gym was closed
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+Day	:	Friday		time : 2023-03-20 21:44:55.307297
+
+the excerise : 'Fore-arm'
+reps:9		weights:10
+
+		**********************************************
+
