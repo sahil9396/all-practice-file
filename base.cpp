@@ -90,3 +90,9 @@ int oldmain(){
     
 }
 
+int main(){
+
+    cout << "what";
+
+    return 0;
+}

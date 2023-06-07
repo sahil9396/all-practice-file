@@ -490,10 +490,25 @@ vector <string> key_pad2 ( string digit){
     solve(ans , i , output , digit , number_leters);
 }
 
+void elimination_array( int* arr){
+    if (sizeof(arr)/4 == 1 || sizeof(arr)/4 == 0)
+    {
+        return ;
+    }
+
+    for(int i = 0; i <sizeof(arr)/4 ;i+=2){
+        arr[i] = '\0';
+    }
+    elimination_array(arr+1);
+}
 
 int main(){
-    int i  =3;
-    // int what[5] = {0,1 ,2,3,4};
+    int what[5] = {0,1 ,2,3,4};
+    int i  =5;
+    what[1] = '\0';
+    what[2] = '\0';
+    // delete what[1];
+    print_arr(what ,i);
     // cout << "How many do you want to display"<<endl;
     // cin >> n;
     // string namet = "This is a practice from love babbar channel";

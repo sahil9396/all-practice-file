@@ -408,24 +408,131 @@ vector <int> nxt_smaller_element(vector <int> an){
     
 }
 
+class N_stack{
+    public:
+    int *arr;
+    int *stk;
+    int arr_size;
+    int no_of_stacks;
+    int sum;
+
+    N_stack(int arr_size , int no_of_stacks){
+        this->arr_size = arr_size;
+        this->no_of_stacks = no_of_stacks;
+        arr = new int[arr_size];
+        stk = new int[no_of_stacks];
+        sum= 0;
+        for (int i = 0; i < arr_size; i++)
+        {
+            *(arr +i) = 0;
+        }
+        for (int i = 0; i < no_of_stacks; i++)
+        {
+            *(stk +i) = -1;
+        }
+    }
+
+    void push_element_in_kth(int d,int k){
+        if (sum == arr_size )
+        {
+            cout << k<< "th stack is overflowed" << endl;
+        }
+        else
+        {
+            stk[k-1]++;
+            if (arr[stk[k-1]] == 0)
+            {
+                arr[stk[k-1]] = d;
+            }
+            else
+            {
+                while (arr[stk[k-1]] != 0)
+                {
+                    stk[k-1]++;
+                }
+                arr[stk[k-1]] = d;
+            }
+            sum++;
+        }
+    }
+
+    void top( int k){
+        if (sum == 0)
+        {
+            cout << "stack is empty" << endl;
+        }
+        else
+        {
+            cout << "The top element is of "<<k << "th stack is : "<< arr[stk[k-1]] << endl;
+        }
+    }
+
+    void pop( int k){
+        if (sum == 0)
+        {
+            cout << "stack is empty" << endl;
+        }
+        else{
+            arr[stk[k-1]] = 0;
+            stk[k-1]--;
+            for (int i = 0; i < no_of_stacks; i++)
+            {
+                if( *(stk+k-1) == *(stk +i) && i != k){
+                    stk[k-1]--;
+                }
+            }
+            sum--;
+            // cout << "poped successfully" << endl;
+        }
+    }
+
+};
+
 int main(){
 
 
+    N_stack first(9,5);
+    first.push_element_in_kth(1 , 1);
+    first.push_element_in_kth(2,2);
+    first.push_element_in_kth(3, 3);
+    first.push_element_in_kth(4 , 4);
+    first.push_element_in_kth(5 , 5);
+
+    first.push_element_in_kth(11 , 1);
+    first.push_element_in_kth(22,2);
+    first.push_element_in_kth(33,3);
+    first.push_element_in_kth(44, 4);
+    // first.push_element_in_kth(44, 5);
+    // first.push_element_in_kth(55, 5);
+
+    for (int i = 1; i <= 5; i++)
+    {
+        first.pop(i);
+        first.top(i);
+    }
     
+
+    // first.top(1);
+    // cout << endl<< "after" << endl << endl;
+
+    // first.push_element_in_kth(2,3);
+    // first.top(3);
+    // cout << endl<< "after" << endl << endl;
+
+
+    // first.push_element_in_kth(3 , 1);
+    // first.pop(1);
+    // first.top(1);
+    // cout << endl<< "after" << endl << endl;
+
     // printstack_of_char(s);
     
     // int dec = make_the_parenthesis_vaild(str);
     // cout << dec << endl;
 
-    vector <int> inte;
-    vector <int> i2;
-    inte = {9,5,8,4,7,3,6,2,5,1,4};
-    i2 = nxt_smaller_element(inte);
-    for (int i = 0; i < inte.size(); i++)
-    {
-        cout << i2[i] << " ";
-    }
-    
+    // int arr[10] = {0,1,2,3};
+    // *arr = 10;
+
 
     cout <<"done"<<endl ;
 

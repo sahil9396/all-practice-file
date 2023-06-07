@@ -864,6 +864,25 @@ Node* Merge_sort(Node* head ){
     
 }
 
+void swapInPair(Node* &head , Node* pre = NULL){
+    if (head == NULL || head->next == NULL)
+    {
+        return ;
+    }
+
+    // Node* front =head->next->next;
+    // Node* nt =head->next;
+    // head->next->next = head;
+    // head->next =front;
+    // if (pre != NULL)    pre->next = nt;
+    swapInPair(head->next->next , head->next);
+    Node* front = head->next;
+    head->next = front->next;
+    front->next = head;
+    if (pre != NULL)  pre->next = front;
+    head = front;
+}
+
 int main(){
 
     Node* head = NULL;
@@ -874,11 +893,14 @@ int main(){
     // Node* side_tail = head;
     // add_circualar_to_nxt_head(head , 0);
 
-    for (int i =5; i >= 1; i-=2)
+    for (int i =5; i >= 1; i--)
     {
         // add_circualar_to_nxt_head(head , i);
         singly_headjoint(head, tail , i);
     }
+
+    swapInPair(head);
+    show(head);
 
     // for (int i = 4; i >= 2; i-=2)
     // {
@@ -886,7 +908,6 @@ int main(){
     // }
     
     
-    show(head);
     // show(h);
     // Node* em = support(h , head);
     // show(em);

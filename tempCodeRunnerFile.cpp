@@ -1,2 +1,1 @@
-ed = merge_1st_appro(head, head1);
-    // show(newhae
+1 2 -1 -1 -1

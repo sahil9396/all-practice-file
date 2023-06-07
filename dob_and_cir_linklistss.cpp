@@ -283,6 +283,7 @@ bool check_cirucular(cir_node* &head){
 }
 
 
+
 int main(){
     // doubly_node* head = new doubly_node(10);
     // doubly_node* head = NULL;

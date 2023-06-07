@@ -1,22 +1,28 @@
-Day : Thursday
+Day : Thursday		Thu Mar 16 09:13:51 2023
 
-the excerise : 'Leg extension with machine'
-reps:10		weights:15 kg	Thu Mar 16 09:13:51 2023
+Excerise: 'Leg extension with machine'
+reps	:	10		
+weights	:	15 kg	
 
-the excerise : 'Leg press with machine'
-reps:0		weights:0	Thu Mar 16 09:14:08 2023
+Excerise: 'Leg press with machine'
+reps	:	0		
+weights	:	0	Thu Mar 16 09:14:08 2023
 
-the excerise : 'leg curl [sleep on table then pull with legs] with machine'
-reps:0		weights:0	Thu Mar 16 09:14:16 2023
+Excerise: 'leg curl [sleep on table then pull with legs] with machine'
+reps	:	0		
+weights	:	0	Thu Mar 16 09:14:16 2023
 
-the excerise : 'squats with weights with machine / pistol'
-reps:10 + 7 + 6		weights:just bar	Thu Mar 16 09:15:11 2023
+Excerise: 'squats with weights with machine / pistol'
+reps	:	10 + 7 + 6		
+weights	:	just bar	Thu Mar 16 09:15:11 2023
 
-the excerise : 'lunges'
-reps:10 each		weights:bodyweight	Thu Mar 16 09:15:33 2023
+Excerise: 'lunges'
+reps	:	10 each		
+weights	:	bodyweight	Thu Mar 16 09:15:33 2023
 
-the excerise : 'calfs = 20-25'
-reps:20		weights:0	Thu Mar 16 09:15:52 2023
+Excerise: 'calfs = 20-25'
+reps	:	20		
+weights	:	0	Thu Mar 16 09:15:52 2023
 
 
 ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
@@ -33,8 +39,601 @@ Gym was closed
 
 Day	:	Friday		time : 2023-03-20 21:44:55.307297
 
-the excerise : 'Fore-arm'
+Excerise : 'Fore-arm'
 reps:9		weights:10
 
 		**********************************************
+
+Day of entery	:	Wednesday	|	time	:	2023-03-22 09:42:37.419565
+
+Excerise : 'Biceps'
+reps	:	10		
+weights	:	6 kg plate
+
+Excerise : 'dumb-bell rows for lats'
+reps	:	10		
+weights	:	10 kg dumb-bell
+
+Excerise : 'asutralian pull-ups'
+reps	:	10 , set : 1		
+weights	:	body-weight
+
+Excerise : 'assisted pull-ups'
+reps	:	10+7		
+weights	:	28 level
+
+Excerise : 'lat pull-downs'
+reps	:	12 ,set : 1		
+weights	:	25 level
+
+Excerise : 'mid-rows'
+reps	:	17.5 level , set : 1		
+weights	:	17.5 level , set : 1
+
+Excerise : 'bench-press'
+reps	:	10 , set : 2		
+weights	:	rod + extra 5 kg plate
+
+Excerise : 'dips'
+reps	:	10 , set : 1		
+weights	:	35 level
+
+Excerise : 'push-ups'
+reps	:	3 , set : 1		
+weights	:	with knee on the ground
+
+Excerise : 'Side dealtes for shoulders'
+reps	:	10 , set : 2		
+weights	:	1.25 level
+
+Excerise : 'Normal - squats'
+reps	:	10 , set : 2		
+weights	:	body
+
+Excerise : 'lunges'
+reps	:	10 , set : 1		
+weights	:	body
+
+Excerise : 'Dead-lift'
+reps	:	7 , set : 2		
+weights	:	body only
+
+Excerise : 'Triceps push-down'
+reps	:	10(1st set) + 9(2nd set)		
+weights	:	10 level(1st set) + 7.5 level(2nd set)
+
+			**********************************************
+
+Day of entery	:	Thursday	|	time	:	2023-03-23 11:30:14.998212
+
+			**********************************************
+
+Day of entery	:	Friday	|	time	:	2023-03-24 21:17:47.137861
+
+Excerise : 'Leg down'
+reps:10		
+weights:20
+
+Excerise : 'Leg extension'
+reps:10+13+15		
+weights:15
+
+Excerise : 'Pistol squat'
+reps:5 each		
+weights:0
+
+Excerise : 'Shoulder press (lifting)'
+reps:10+8+8		
+weights:10 plate
+
+Excerise : 'Rear delts'
+reps:10+10+9		
+weights:minimum at the levels
+
+Excerise : 'cable lateral raises'
+reps:6 [power on]+10+10[power off]		
+weights:1.25 plate
+
+Excerise : 'Assisted pull-ups'
+reps:10+12+15		
+weights:35 level
+
+Excerise : 'Lat pull-downs'
+reps:11+10		
+weights:25 level
+
+Excerise : 'Asutralian pull-ups'
+reps:8+6		
+weights:0
+
+Excerise : 'Mid-rows'
+reps:12+12+12		
+weights:17.5 level
+
+Excerise : 'Bench-press'
+reps:10+10+6		
+weights:5 kg plate
+
+
+			**********************************************
+Day of entery	:	Sunday	|	time	:	2023-03-26 22:03:07.103492
+
+Excerise : 'Fore-arm under grip with both hands'
+reps:15*2		
+weights:5 power on level
+
+Excerise : 'one arm for fore-arms under grip'
+reps:15*2		
+weights:3 off level
+
+Excerise : 'one Fore over-grip'
+reps:13*3		
+weights:3.75 on
+
+Excerise : 'Deadlift '
+reps:6+5+6	
+weights:5 kg extra
+
+Excerise : 'Hammer arm'
+reps:10*3		
+weights:6 kg dumbbell
+
+Excerise : 'Bench press'
+reps:10+7+5		
+weights:5 kg
+
+
+			**********************************************
+
+Day of entery	:	Tuesday	|	time	:	2023-03-29 17:11:25.662959
+
+Excerise : 'Dumbbell for triceps bedind the head by standing'
+reps	:	10+6+5		
+weights	:	6 num dumbbell
+
+Excerise : 'Triceps push-down'
+reps	:	12+11+4		
+weights	:	7.5 off
+
+Excerise : 'Cable lateral raises'
+reps	:	8*3		
+weights	:	1.25 level
+
+Excerise : 'Shoulder press'
+reps	:	8*3		
+weights	:	10 kg off
+
+Excerise : 'Rear delts'
+reps	:	10+9*2		
+weights	:	min
+
+Excerise : 'Hammer arm'
+reps	:	8*3
+weights	:	6 
+
+
+			**********************************************
+
+Day of entery	:	Friday	|	time	:	2023-03-31 15:15:37.313654
+
+Excerise:	'15/30 degree inclin dumbbell press'
+Reps	:	10+9+7
+weight	:	8 
+
+Excerise:	'Push-ups'
+Reps	:	0
+weight	:	0
+
+Excerise:	'seated cabel pulls at chest height for mid portion'
+Reps	:	10*3
+weight	:	5kg
+
+Excerise:	'Seated cable pulls at slightly more height'
+Reps	:	0
+weight	:	0
+
+Excerise:	'Decline dumbbell press'
+Reps	:	0
+weight	:	0
+
+Excerise:	'Incline bench press'
+Reps	:	8*3
+weight	:	5 kg
+
+Excerise:	'Biceps curls outward'
+Reps	:	with cable 10*3
+weight	:	10 level cable
+
+Excerise:	'Biceps curls inward'
+Reps	:	10*1
+weight	:	6 kg dumbbell
+
+Excerise:	'Hammer curls'
+Reps	:	10*3
+weight	:	6 kg dum
+
+			**********************************************
+
+Day of entery	:	Friday	|	time	:	2023-03-31 15:28:36.240044
+
+			**********************************************
+
+Day of entery	:	Wednesday|	time	:	2023-03-31 15:33:09.899641
+
+The reason for not working_out		:		Eyes were hell red,so decided to sleep more.
+
+			**********************************************
+
+Day of entery	:	Thursday|	time	:	2023-03-31 15:34:05.114800
+
+Excerise:	'One-Arm dumbell Row'
+Reps	:	0
+weight	:	0
+
+Excerise:	'Australian pullups'
+Reps	:	8
+weight	:	body
+
+Excerise:	'Lat pull-down'
+Reps	:	10*3
+weight	:	10th
+
+Excerise:	'Mid-row upper'
+Reps	:	10*3
+weight	:	17.5th
+
+Excerise:	'Deadlift'
+Reps	:	7*3
+weight	:	5 dum
+
+Excerise:	'Mid-rows lower'
+Reps	:	10*3
+weight	:	17.5th
+
+Excerise:	'Assisted Pull ups'
+Reps	:	10*3
+weight	:	36th
+
+			**********************************************
+
+Day of entery	:	Saturday	|	time	:	2023-04-01 22:59:38.928856
+
+Excerise:	'Leg extension with machine'
+Reps	:	10*3
+weight	:	15 lev
+
+Excerise:	'Leg press with machine'
+Reps	:	0
+weight	:	0
+
+Excerise:	'leg curl [sleep on table then pull with legs] with machine'
+Reps	:	15*3
+weight	:	20 on
+
+Excerise:	'squats with weights with machine / pistol'
+Reps	:	7*2+5
+weight	:	just rod
+
+Excerise:	'lunges'
+Reps	:	10*3
+weight	:	body
+
+Excerise:	'calfs'
+Reps	:	15*3
+weight	:	body
+
+			**********************************************
+
+Day of entery	:	Tuesday	|	time	:	2023-04-04 16:55:40.483196
+
+Excerise:	'Front military press'
+Reps	:	10+6+8
+weight	:	15 kg
+
+Excerise:	'Side lateral  + front raises by sitting'
+Reps	:	10*3
+weight	:	min on
+
+Excerise:	'Rear delts'
+Reps	:	8*3
+weight	:	2nd level
+
+Excerise:	'dumbel shrugs for traps'
+Reps	:	
+weight	:	
+
+Excerise:	'Tricep push-down'
+Reps	:	15+17+16
+weight	:	7.5 
+
+Excerise:	'One Arm dumbbell overhead extension'
+Reps	:	7*2 + (6+4)
+weight	:	4kg dumbbell
+
+Excerise:	'Lying triceps extension [taking rod behind the head]'
+Reps	:	
+weight	:	
+
+			**********************************************
+
+Day of entery	:	Wednesday	|	time	:	2023-04-05 21:12:38.103291
+
+Excerise:	'15 degree inclin dumbbell press'
+Reps	:	10+8*2
+weight	:	8 kg
+
+Excerise:	'Biceps curls inwards'
+Reps	:	7+6+7
+weight	:	6 kg
+
+Excerise:	'Biceps curls outward'
+Reps	:	8+7+5
+weight	:	6 kg
+
+Excerise:	'Bench press'
+Reps	:	12+7
+weight	:	5 kg
+
+Excerise:	'seated cabel flyes'
+Reps	:	
+weight	:	
+
+Excerise:	'Chest press'
+Reps	:	17+(12+7shoulder pain)
+weight	:	10 lev + 15*2
+
+Excerise:	'Incline bench press'
+Reps	:	
+weight	:	
+
+Excerise:	'Push-ups'
+Reps	:	
+weight	:	
+
+Excerise:	'Hammer'
+Reps	:	9+6
+weight	:	6 kg
+
+			**********************************************
+
+Day of entery	:	Thursday	|	time	:	2023-04-06 16:56:42.414461
+
+Excerise:	'Leg extension with machine'
+Reps	:	11*3
+weight	:	15kg
+
+Excerise:	'Leg press with machine'
+Reps	:	
+weight	:	
+
+Excerise:	'leg curl'
+Reps	:	10+9*2
+weight	:	25on
+
+Excerise:	'squats with weights with machine / pistol'
+Reps	:	10*2+7
+weight	:	body(pistol)
+
+Excerise:	'lunges'
+Reps	:	10*3
+weight	:	body
+
+Excerise:	'calfs'
+Reps	:	18*3
+weight	:	body
+
+			**********************************************
+
+Day of entery	:	Friday	|	time	:	2023-04-09 12:34:16.792761
+
+Excerise:	'Mid-row upper'
+Reps	:	14+13+12
+weight	:	17.5kg
+
+Excerise:	'Lat pull-down'
+Reps	:	9+8+6
+weight	:	30th
+
+Excerise:	'Mid-row lower'
+Reps	:	11+12+15
+weight	:	17.5th
+
+Excerise:	'Asutralian pull-ups'
+Reps	:	11+10+8
+weight	:	body
+
+Excerise:	'One-Arm dumbell Row'
+Reps	:	12+10
+weight	:	7.5th
+
+Excerise:	'Deadlift'
+Reps	:	
+weight	:	
+
+Excerise:	'Abdomenal crushes machine'
+Reps	:	13*2+10
+weight	:	body
+
+Excerise:	'Leg_raises or hanging leg-raises'
+Reps	:	8*1
+weight	:	body
+
+Excerise:	'Russian twist or sleep and swing your legs left and right'
+Reps	:	15*3
+weight	:	body
+
+			**********************************************
+
+Day of entery	:	Saturday	|	time	:	2023-04-09 12:37:27.889814
+
+Excerise : 'Incline bench-press'
+reps:11+9+8		weights:5kg
+
+Excerise : 'Assisted pull-ups'
+reps:10+9+10		weights:28th
+
+Excerise : 'Tricep extension'
+reps:7+5+4		weights:4 kg
+
+Excerise : 'Biceps curls out'
+reps:8+7+6		weights:6kg
+
+Excerise : 'Biceps curls in'
+reps:7*3		weights:6 kg
+
+Excerise : 'side delta '
+reps:10+8+7		weights:min(on)
+
+
+			**********************************************
+
+Day of entery	:	Tuesday	|	time	:	2023-04-11 22:39:04.478598
+
+The reason for not working_out		:		Today I woke up late because yesterday, I slept late at 1 am approx, So decided to do the shoulders on saturday.
+
+			**********************************************
+
+Day of entery	:	Wednesday	|	time	:	2023-04-12 10:13:06.762651
+
+Excerise:	'15 degree inclin dumbbell press'
+Reps	:	
+weight	:	
+
+Excerise:	'Biceps curls inwards'
+Reps	:	12+10+9
+weight	:	6kg
+
+Excerise:	'Biceps curls outward'
+Reps	:	10*2
+weight	:	6 kg
+
+Excerise:	'Bench press'
+Reps	:	10*2
+weight	:	5 kg (white)
+
+Excerise:	'seated cabel flyes'
+Reps	:	
+weight	:	
+
+Excerise:	'Chest press'
+Reps	:	10+9*2(correct the form)
+weight	:	15 kg
+
+Excerise:	'Incline bench press'
+Reps	:	12+10+9
+weight	:	5 kg (black)
+
+Excerise:	'Push-ups'
+Reps	:	
+weight	:	
+
+Excerise:	'Hammer'
+Reps	:	8+9
+weight	:	6kg
+
+			**********************************************
+
+Day of entery	:	Thursday	|	time	:	2023-04-13 17:04:37.094589
+
+Excerise:	'Mid-row upper'
+Reps	:	12*1
+weight	:	17.5 on
+
+Excerise:	'Lat pull-down'
+Reps	:	10+9+8
+weight	:	30kg
+
+Excerise:	'Mid-row lower'
+Reps	:	12*3
+weight	:	17.5 on
+
+Excerise:	'Asutralian pull-ups'
+Reps	:	9+8
+weight	:	heigth 12th
+
+Excerise:	'One-Arm dumbell Row'
+Reps	:	
+weight	:	
+
+Excerise:	'Deadlift'
+Reps	:	
+weight	:	
+
+Excerise:	'Abdomenal crushes machine'
+Reps	:	1 min *1
+weight	:	body
+
+Excerise:	'Leg_raises or hanging leg-raises'
+Reps	:	1 min *1
+weight	:	body
+
+Excerise:	'Russian twist or sleep and swing your legs left and right'
+Reps	:	1 min*1
+weight	:	body
+
+			**********************************************
+
+Day of entery	:	Friday	|	time	:	2023-04-14 21:10:01.047433
+
+Excerise:	Leg extension with machine
+reps	:	11+12+11
+weights	:	15kg on
+
+Excerise:	Leg press with machine
+reps	:	
+weights	:	
+
+Excerise:	leg curl
+reps	:	10+12+10
+weights	:	25 off
+
+Excerise:	squats with weights with machine / pistol
+reps	:	10*3
+weights	:	2.5kg
+
+Excerise:	lunges
+reps	:	 10*3
+weights	:	 body
+
+Excerise:	calfs
+reps	:	25*1
+weights	:	body
+
+Excerise:	Deadlift
+reps	:	6+6+6(max weight 15kg traditional deadlift)
+weights	:	5+10+15
+
+			*******************************************
+
+Day of entery	:	Saturday	|	time	:	2023-04-15 20:47:27.979153
+
+Excerise:	'One Arm dumbbell overhead extension'
+Reps	:	10+7+6
+weight	:	8 kg
+
+Excerise:	'Tricep push-down'
+Reps	:	8*3
+weight	:	10 off
+
+Excerise:	'Side lateral'
+Reps	:	10*3
+weight	:	min
+
+Excerise:	'Rear  dealts'
+Reps	:	8*3
+weight	:	5th lev
+
+Excerise:	'Front military press'
+Reps	:	10+7+5
+weight	:	15 kg
+
+Excerise:	'dumbel shrugs for traps'
+Reps	:	
+weight	:	
+
+Excerise:	'Dips'
+Reps	:	
+weight	:	
+
+			**********************************************
 
